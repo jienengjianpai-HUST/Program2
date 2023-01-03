@@ -1,0 +1,9 @@
+/* 需要放到文件最上面 */
+/* 水平间距 */
+/* 水平间距 */
+.card-actions2 {
+  margin-bottom: 20rpx;
+}
+.card-actions1 {
+  margin-left: 50rpx;
+}

@@ -1,0 +1,15 @@
+/* 需要放到文件最上面 */
+/* 水平间距 */
+/* 水平间距 */
+.xiangqing-box1 {
+  border: solid black 3rpx;
+  margin: 30rpx;
+}
+.xiangqing-box2 {
+  border: solid black 3rpx;
+  margin: 30rpx;
+}
+.xiangqing-box3 {
+  border: solid black 3rpx;
+  margin: 30rpx;
+}

@@ -24,6 +24,7 @@ if (!Math) {
   "./pages/record/trash/kuadihe-small/kuadihe-small.js";
   "./pages/record/trash/suliaoping/suliaoping.js";
   "./pages/record/trash/kuaidixinfeng/kuaidixinfeng.js";
+  "./pages/index/xiangqing/xiangqing.js";
 }
 const _sfc_main = {
   onLaunch: function() {

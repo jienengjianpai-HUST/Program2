@@ -21,7 +21,8 @@
     "pages/record/trash/kuaidihe-large/kuaidihe-large",
     "pages/record/trash/kuadihe-small/kuadihe-small",
     "pages/record/trash/suliaoping/suliaoping",
-    "pages/record/trash/kuaidixinfeng/kuaidixinfeng"
+    "pages/record/trash/kuaidixinfeng/kuaidixinfeng",
+    "pages/index/xiangqing/xiangqing"
   ],
   "window": {
     "navigationBarTextStyle": "black",
