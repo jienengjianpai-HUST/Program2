@@ -1,0 +1,1 @@
+<view class="datainput-container"><view class="title"> 数据输入 </view><view class="inputbox"><view class="text"> 一次性塑料瓶 X </view><uni-easyinput wx:if="{{a}}" class="input1" u-i="f1924abc-0" bind:__l="__l" u-p="{{a}}"></uni-easyinput></view><view class="button-down"><button bindtap="{{b}}">上一项</button><button bindtap="{{c}}">下一项</button></view></view>

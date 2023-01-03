@@ -1,0 +1,1 @@
+<view class="record-container"><view class="item"><view class="item1"><button>出行</button></view><view class="item2"><button>电子产品使用时间</button></view><view class="item3"><button bindtap="{{a}}">生活垃圾</button></view></view></view>

@@ -1,0 +1,58 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/record/record",
+    "pages/community/community",
+    "pages/my/my",
+    "pages/analyze/analyze",
+    "pages/index/shenbao/shenbao",
+    "pages/index/baoming/baoming",
+    "pages/index/wodexiangmu/wodexiangmu",
+    "pages/record/trash/trash",
+    "pages/analyze/fenxi2/fenxi2",
+    "pages/analyze/fenxi3/fenxi3",
+    "pages/analyze/fenxi1/fenxi1",
+    "pages/analyze/suggestion/suggestion",
+    "pages/community/jiangli/jiangli",
+    "pages/community/jiangli/myprize/myprize",
+    "pages/record/trash/zhiwan/zhiwan",
+    "pages/record/trash/kuaizi/kuaizi",
+    "pages/record/trash/waimaihe/waimaihe",
+    "pages/record/trash/kuaidihe-large/kuaidihe-large",
+    "pages/record/trash/kuadihe-small/kuadihe-small",
+    "pages/record/trash/suliaoping/suliaoping",
+    "pages/record/trash/kuaidixinfeng/kuaidixinfeng"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "发现"
+      },
+      {
+        "pagePath": "pages/record/record",
+        "text": "登记"
+      },
+      {
+        "pagePath": "pages/analyze/analyze",
+        "text": "分析"
+      },
+      {
+        "pagePath": "pages/community/community",
+        "text": "社区"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的"
+      }
+    ]
+  },
+  "lazyCodeLoading": "requiredComponents",
+  "usingComponents": {}
+}

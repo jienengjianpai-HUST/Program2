@@ -1,0 +1,17 @@
+/* 需要放到文件最上面 */
+/* 水平间距 */
+/* 水平间距 */
+.button_top {
+  display: flex;
+}
+.title-container {
+  text-align: center;
+  border: 4rpx solid black;
+  margin-top: 20rpx;
+  margin-left: 50rpx;
+  margin-right: 50rpx;
+  padding: 30rpx;
+}
+.card-actions {
+  display: flex;
+}

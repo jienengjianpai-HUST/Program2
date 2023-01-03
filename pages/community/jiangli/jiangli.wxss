@@ -1,0 +1,19 @@
+/* 需要放到文件最上面 */
+/* 水平间距 */
+/* 水平间距 */
+.button_top {
+  display: flex;
+}
+.title-container {
+  text-align: center;
+  border: 4rpx solid black;
+  margin-top: 10rpx;
+  margin-left: 50rpx;
+  margin-right: 50rpx;
+  padding: 20rpx;
+}
+.jiangli-container {
+  padding: 30rpx;
+  border: 4rpx solid black;
+  margin: 10rpx;
+}

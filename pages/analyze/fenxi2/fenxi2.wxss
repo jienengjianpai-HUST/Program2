@@ -1,0 +1,23 @@
+/* 需要放到文件最上面 */
+/* 水平间距 */
+/* 水平间距 */
+.container {
+  padding: 20px;
+  font-size: 14px;
+  line-height: 24px;
+}
+.title-1 {
+  display: block;
+  height: 100rpx;
+  line-height: 100rpx;
+  text-align: center;
+  border: solid black;
+  border-radius: 18rpx;
+  background-color: aliceblue;
+}
+.reason-container {
+  padding: 100rpx;
+}
+.button-container {
+  display: flex;
+}

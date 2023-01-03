@@ -1,0 +1,15 @@
+/* 需要放到文件最上面 */
+/* 水平间距 */
+/* 水平间距 */
+.item {
+  margin: 50rpx;
+}
+.item1 {
+  margin: 50rpx;
+}
+.item2 {
+  margin: 50rpx;
+}
+.item3 {
+  margin: 50rpx;
+}

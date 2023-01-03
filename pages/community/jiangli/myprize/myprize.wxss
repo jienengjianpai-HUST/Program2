@@ -1,0 +1,21 @@
+/* 需要放到文件最上面 */
+/* 水平间距 */
+/* 水平间距 */
+.title-myprize {
+  text-align: center;
+  border: 3rpx solid black;
+  padding: 20rpx;
+  margin: 50rpx;
+}
+.jiangli-container {
+  margin: 20rpx;
+  border: 4rpx solid black;
+  display: flex;
+}
+.picture {
+  margin-left: 20rpx;
+}
+.part2 {
+  margin-left: 140rpx;
+  margin-top: 40rpx;
+}

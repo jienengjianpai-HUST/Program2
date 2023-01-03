@@ -1,0 +1,22 @@
+/* 需要放到文件最上面 */
+/* 水平间距 */
+/* 水平间距 */
+.title {
+  border: 3rpx solid;
+  text-align: center;
+  margin: 100rpx;
+  padding: 50rpx;
+}
+.inputbox {
+  display: flex;
+  border: 4rpx solid black;
+  margin: 50rpx;
+  padding: 100rpx;
+}
+.text {
+  margin-top: 20rpx;
+}
+.input1 {
+  border-width: 100rpx;
+  margin-left: 20rpx;
+}
